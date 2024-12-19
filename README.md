@@ -1,0 +1,1 @@
+this was my first case study for my cogs 137 class that aimed to find a matrix and cutoff value that best determined having recently used cannabis. this case study was done in hopes of providing a solid scientific foundation for implementing legal limits and legislation surrounding cannabis use.
